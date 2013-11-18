@@ -1,9 +1,12 @@
 puts'HELLO DEAR, IT\'S SO GOOD TO SEE YOU!'
 byecount=0
-while byecount<3
+while true
   input=gets.chomp
   if input=='BYE'
     byecount=byecount+1
+    if byecount==3
+      break
+    end
   else
     byecount=0
   end
