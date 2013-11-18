@@ -3,7 +3,7 @@ response=gets.chomp
 if response == 'yes' || response == 'Yes'
   count=99
   while count!=1
-    puts count+'bottles of beer on the wall'+count+'bottles of beer.'
+    puts count.to_s + 'bottles of beer on the wall'+count+'bottles of beer.'
     count=count-1
     puts'Take one down, pass it around,'+count+'bottles of beer on the wall.'
 end
