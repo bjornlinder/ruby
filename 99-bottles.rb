@@ -1,6 +1,6 @@
 puts'Would you like to hear an awful song?'
 response=gets.chomp
-if response == 'yes' || response == 'Yes'
+if response == 'yes' || 'Yes'
   count=99
   puts'You asked for it.'
   while count!=1
