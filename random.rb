@@ -1,2 +1,2 @@
-put(rand)
-put('this is text')
+puts(rand)
+puts('this is text')
