@@ -1,4 +1,4 @@
-puts'Hello dear, it\'s so good to see you!'
+puts'HELLO DEAR, IT\'S SO GOOD TO SEE YOU!'
 byecount=0
 while byecount<3
   input=gets.chomp
