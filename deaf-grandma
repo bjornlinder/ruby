@@ -1,0 +1,17 @@
+puts'Hello dear, it\'s so good to see you!'
+byecount=0
+while byecount<3
+  input=gets.chomp
+  if input=='BYE'
+    byecount=byecount+1
+  else
+    byecount=0
+  end
+  if input!=input.upcase
+    puts'HUH? SPEAK UP, SONNY!'
+  else
+  randyear=rand(20)+1943
+    puts'NO, NOT SINCE '+randyear.to_s+'\!'
+  end
+end
+puts'COME VISIT AGAIN SOON, DEAR\!'
