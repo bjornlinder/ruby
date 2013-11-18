@@ -1,2 +1,2 @@
 input=gets.chomp
-puts'WHADYA MEAN '+input+'?YOU'RE FIRED!'
+puts'WHADYA MEAN '+input+'?YOURE FIRED!'
