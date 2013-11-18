@@ -1,0 +1,2 @@
+input=gets.chomp
+puts'WHADYA MEAN '+input+'?YOU'RE FIRED!'
