@@ -11,7 +11,7 @@ while byecount<3
     puts'HUH? SPEAK UP, SONNY!'
   else
   randyear=rand(20)+1943
-    puts'NO, NOT SINCE '+randyear.to_s+'\!'
+    puts'NO, NOT SINCE '+randyear.to_s+'!'
   end
 end
-puts'COME VISIT AGAIN SOON, DEAR\!'
+puts'COME VISIT AGAIN SOON, DEAR!'
