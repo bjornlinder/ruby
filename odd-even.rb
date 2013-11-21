@@ -1,5 +1,5 @@
+i=0
 while i<10
-  i=0
   if i%2==1
     puts'#{i} is odd.'
   elsif i%2==0
