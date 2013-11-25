@@ -5,5 +5,5 @@ birth.nsec
 current=Time.now
 puts(birth-current)
 #What day was I born on?
-puts(birth.%a)
-puts(current.%a)
+puts(birth.wday)
+puts(current.wday)
