@@ -11,4 +11,4 @@ puts((age.to_int-age)*365)
 puts(birth.wday)
 puts(current.wday)
 puts(current.sunday?)
-puts(current.monday?
+puts(current.monday?)
