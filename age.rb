@@ -5,10 +5,10 @@ birth.nsec
 current=Time.now
 puts(birth-current)
 #What day was I born on?
-birth.monday
-birth.tuesday
-birth.wednesday
-birth.thursday
-birth.friday
-birth.saturday
-birth.sunday
+birth.monday?
+birth.tuesday?
+birth.wednesday?
+birth.thursday?
+birth.friday?
+birth.saturday?
+birth.sunday?
