@@ -1,4 +1,5 @@
 arrr=[]
-do arrr.push gets
+input=gets
+do arrr.push input
 end
 puts arrr
