@@ -1,5 +1,10 @@
 arrr=[]
 input=gets
-do 5.times puts 'you ass\!'
+5.times do
+  puts 'you ass\!'
+end
+while input!=\n
+input=gets
+arrr.push input
 end
 puts arrr
