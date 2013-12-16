@@ -1,14 +1,10 @@
-
-
 array1=[bob, cheese, batteries, hamburger, caviar, gatorade]
 
 array2=[]
 
 #def compare input output
 
-
-
-def sort start end
+def sort start
 start.each do |copy|
 if a<start.each
 puts copy
