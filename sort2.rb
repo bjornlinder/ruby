@@ -9,5 +9,6 @@ start.each do |copy|
 if a<start.each
 puts copy
 end
+end
 
 sort array1 array2
