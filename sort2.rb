@@ -12,4 +12,4 @@ def sort start
   end
 end
 
-sort array1 array2
+sort array1
