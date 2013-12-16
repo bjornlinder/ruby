@@ -6,9 +6,12 @@ array2=[]
 
 def sort start
   start.each do |copy|
-    if 'a'<start.each
-    puts copy
-    end
+    #if 'a'<
+      puts start.each do |value|
+        return value
+      end
+      puts copy
+    #end
   end
 end
 
