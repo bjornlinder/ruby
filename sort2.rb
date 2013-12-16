@@ -6,7 +6,7 @@ array2=[]
 
 def sort start
   start.each do |copy|
-    if a<start.each
+    if 'a'<start.each
     puts copy
     end
   end
