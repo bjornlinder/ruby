@@ -1,4 +1,4 @@
-array1=[bob, cheese, batteries, hamburger, caviar, gatorade]
+array1=['bob', 'cheese', 'batteries', 'hamburger', 'caviar', 'gatorade']
 
 array2=[]
 
