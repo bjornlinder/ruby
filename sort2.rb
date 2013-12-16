@@ -7,7 +7,7 @@ array2=[]
 def sort start
   start.each do |copy|
     #if 'a'<
-      puts start.each do |value|
+      puts start.each |value|
         return value
       end
       puts copy
@@ -16,3 +16,5 @@ def sort start
 end
 
 sort array1
+
+#a.insert(index,object)
