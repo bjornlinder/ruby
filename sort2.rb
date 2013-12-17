@@ -5,12 +5,12 @@ array2=[]
 #def compare input output
 
 def sort start
-  start.each do |copy|
+  start.each |copy|
     #if 'a'<
       puts start.each |value|
         return value
       end
-      puts copy
+      #puts copy
     #end
   end
 end
