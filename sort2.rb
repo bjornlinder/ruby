@@ -4,15 +4,16 @@ array2=[]
 
 #def compare input output
 
-def sort start
+def sort start fin
   start.each |copy|
-    #if 'a'<
-      puts start.each |value|
+    #if 'a<'
+      puts start.each do |value|
         return value
       end
       #puts copy
     #end
   end
+  return sorted
 end
 
 sort array1
